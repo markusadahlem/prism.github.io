@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Consultation",
+        "description": "[WIP].",
+        "image": {
+            "url": "images/features/noun_branding_1885335.svg",
+            "width": 80,
+            "height": 80
+        }
+    },
+    {
+        "title": "[WIP]",
+        "description": "[WIP].",
+        "image": {
+            "url": "images/features/noun_The Process_1885341.svg",
+            "width": 80,
+            "height": 80
+        }
+    }
+]
