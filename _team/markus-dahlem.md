@@ -1,9 +1,9 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+title: "Markus A. Dahlem"
+date: 2025-03-26T10:47:58+10:00
+image: "images/team/markus-dahlem.jpg"
+jobtitle: "CEO"
+linkedinurl: "https://www.linkedin.com/in/markusdahlem/"
 promoted: true
 weight: 1
 ---

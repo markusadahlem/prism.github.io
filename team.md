@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of experienced scientists and digital health consultants supports your innovation.
+
+<!--whether you're validating a concept, designing a study, or scaling a digital therapeutic.-->
