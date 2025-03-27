@@ -1,17 +1,17 @@
-baseurl: '/'
+baseurl: "/"
 permalink: pretty
-title: 'Jekyll Serif'
+title: "Digital PRISM – Therapeutic Intelligence"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/logo-wide.svg"
+  desktop_height: "48px"
+  desktop_width: "180px"
 
-home: 
-  limit_services: 6
+home:
+  limit_services: 3
 
 collections:
   services:

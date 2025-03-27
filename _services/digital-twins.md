@@ -1,14 +1,15 @@
 ---
 title: "Digital Twins"
-date: 2019-01-28T15:15:26+10:00
+date: 2025-03-27T09:42:22+0100
 weight: 2
 ---
 
-# Digital Twins
+Digital twins create a virtual replica of the human body's organ system of interest, using physiological and behavioral models to simulate complex interactions within the body’s systems.
 
 ![](/images/illustrations/digital-twin.svg)
 
-Digital twins create a virtual replica of the human body's organ system of interest, using physiological models to simulate complex interactions within the body’s systems. The use of digital twins is threefold:
+<!--
+The use of digital twins is threefold:
 
 - Synthetic Data Generation
   - Create virtual populations to inform trial design
@@ -44,3 +45,5 @@ The Kalman filter enhances these models by continuously refining predictions and
 ![](/images/illustrations/cns_organ_systems_kalman_overlay.svg)
 
 ![](/images/illustrations/kalman_method_visual.svg)
+
+-->
