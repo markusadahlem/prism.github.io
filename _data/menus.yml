@@ -11,9 +11,6 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
-  - name: "Impressum"
-    url: "/impressum/"
-    weight: 6
 
 footer:
   - name: "Home"
@@ -22,3 +19,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Impressum"
+    url: "/impressum/"
+    weight: 3

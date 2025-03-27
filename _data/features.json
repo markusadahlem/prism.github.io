@@ -1,18 +1,27 @@
 [
     {
-        "title": "Consultation",
-        "description": "[WIP].",
+        "title": "Free Consultation",
+        "description": "New clients receive an obligation free consultation.",
         "image": {
-            "url": "images/features/noun_branding_1885335.svg",
+            "url": "images/features/free-consultation.svg",
             "width": 80,
             "height": 80
         }
     },
     {
-        "title": "[WIP]",
-        "description": "[WIP].",
+        "title": "Expertise in Digital Health",
+        "description": "Deep expertise in digital health technologies and trends.",
         "image": {
-            "url": "images/features/noun_The Process_1885341.svg",
+            "url": "images/features/expertise-featured.svg",
+            "width": 80,
+            "height": 80
+        }
+    },
+    {
+        "title": "Model-based AI.",
+        "description": "Interpretable, predictive insights prioritizing transparency and clinical relevance.",
+        "image": {
+            "url": "images/features/model-based-ai.svg",
             "width": 80,
             "height": 80
         }
