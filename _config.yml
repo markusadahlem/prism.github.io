@@ -11,10 +11,10 @@ logo:
   desktop_width: "180px"
 
 home:
-  limit_services: 3
+  limit_solutions: 6
 
 collections:
-  services:
+  solutions:
     output: true
     sort_by: weight
   team:
@@ -23,9 +23,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "solutions"
     values:
-      layout: "service"
+      layout: "solution"
   - scope:
       path: ""
       type: "team"

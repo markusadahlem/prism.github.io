@@ -10,7 +10,7 @@ show_call_box: true
 
 # <span class="insilico">_Digital&nbsp;_</span> Preclinical Research <span class="insilico">_in&nbsp;silico&thinsp;_</span> Modelling
 
-_In silico_ modeling and AI bridge preclinical research rigor to advance digital therapeutics, biomarkers, and clinical measures.
+_In silico_ modeling and model-based AI bridge preclinical research rigor to advance digital therapeutics, biomarkers, and clinical measures.
 
 We create scientifically grounded, interpretable AI algorithms to reduce development risks, support regulatory compliance, and accelerate market entry for evidence-based digital solutions—including remote monitoring and closed-loop drug-device innovations.
 
