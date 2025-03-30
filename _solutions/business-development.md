@@ -9,5 +9,3 @@ By bridging the innovative agility of startups with the structured expertise of 
 > "Even for the most seasoned dealmakers, successful deals require coordination, planning and collaboration throughout the process."
 
 <!--more-->
-
-![Accounting Services](/images/illustrations/business_dev_cycle.svg)

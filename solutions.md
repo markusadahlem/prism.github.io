@@ -1,6 +1,6 @@
 ---
 title: Solutions
-layout: services
+layout: solutions
 description: Solutions
 intro_image: "images/illustrations/solutions-arc.svg"
 intro_image_absolute: true
