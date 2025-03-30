@@ -2,7 +2,7 @@
 title: "Markus A. Dahlem"
 date: 2025-03-26T10:47:58+10:00
 image: "images/team/markus-dahlem.jpg"
-jobtitle: "Founder"
+jobtitle: "Co-Founder"
 linkedinurl: "https://www.linkedin.com/in/markusdahlem/"
 promoted: true
 weight: 1

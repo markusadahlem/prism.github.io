@@ -16,7 +16,7 @@ Vertreten durch:
 Markus Dahlem
 Kontakt:
 Telefon: 0172 -1973 680
-E-Mail: markus.dahlem@dahlem.ch
+E-Mail: dahlem@digital-prism.com
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Markus Dahlem

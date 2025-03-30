@@ -5,12 +5,9 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 4
 
 footer:
   - name: "Home"

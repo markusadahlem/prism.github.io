@@ -2,12 +2,8 @@
 title: "Bernd Schmidt"
 date: 2025-11-19T10:47:58+10:00
 image: "images/team/placeholder-image.jpg"
-jobtitle: "CTO"
-linkedinurl: "https://www.linkedin.com"
+jobtitle: "Co-Founder"
+linkedinurl: "https://www.linkedin.com/in/bernd-schmidt-058853313/"
 promoted: true
 weight: 2
 ---
-
-> WIP
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

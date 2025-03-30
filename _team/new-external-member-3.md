@@ -2,7 +2,7 @@
 title: "NN"
 date: 2025-11-19T10:47:58+10:00
 image: "images/team/placeholder-image.jpg"
-jobtitle: "Coming Soon"
+jobtitle: "Cerebral Dynamics"
 linkedinurl: "https://www.linkedin.com"
 weight: 5
 ---

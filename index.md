@@ -1,7 +1,7 @@
 ---
 title: Digital PRISM
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: In silico modeling and model-based AI bridge preclinical research rigor to advance digital therapeutics, biomarkers, and clinical measures.
 intro_image: "images/slider/bridging-asperation-expectation-gap.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
