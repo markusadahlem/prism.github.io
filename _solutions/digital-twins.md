@@ -1,7 +1,7 @@
 ---
 title: "Digital Twins for Remote & Self-Monitoring"
 date: 2025-03-27T09:42:22+0100
-weight: 8
+weight: 3
 ---
 
 Real-time insight from virtual patient models.

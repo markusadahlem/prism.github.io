@@ -8,6 +8,8 @@ Support for smart combinations and converging regulations.
 
 We guide digital health companies navigating the overlap of drugs, devices, and software. Whether aligning with PDURS in the U.S. or leveraging DiGA’s upcoming Class IIb device expansion, we help you plan integrated regulatory strategies.
 
+![](/images/illustrations/drug-device.svg)
+
 <!--
 With PDURS (prescription drug use-related software), the U.S. is taking the lead in Digital Therapeutics (DTx) adoption, setting benchmarks in regulatory oversight and innovation.
 

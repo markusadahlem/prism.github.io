@@ -1,7 +1,7 @@
 ---
 title: "Discovery"
 date: 2025-03-26T18:33:46+10:00
-weight: 1
+weight: 4
 ---
 
 A structured path to identify what works and why.
