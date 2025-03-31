@@ -9,8 +9,8 @@
         }
     },
     {
-        "title": "Expertise in Digital Health",
-        "description": "Deep expertise in digital health technologies and trends.",
+        "title": "R&D Spotlight",
+        "description": "Claim your free Digital Health R&D Spotlight – contact us to subscribe.",
         "image": {
             "url": "images/features/expertise-featured.svg",
             "width": 80,
@@ -18,8 +18,8 @@
         }
     },
     {
-        "title": "Model-based AI.",
-        "description": "Interpretable, predictive insights prioritizing transparency and clinical relevance.",
+        "title": "Expertise in Digital Health",
+        "description": "Deep expertise in digital health technologies and trends.",
         "image": {
             "url": "images/features/model-based-ai.svg",
             "width": 80,

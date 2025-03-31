@@ -1,10 +1,14 @@
 ---
-title: "Digital Twins"
+title: "Digital Twins for Remote & Self-Monitoring"
 date: 2025-03-27T09:42:22+0100
-weight: 2
+weight: 8
 ---
 
+We develop digital twins that mirror a patient's physiological and behavioral states in real time, enabling personalized monitoring and proactive care. These dynamic models support remote patient management, adaptive interventions, and self-monitoring strategies—transforming passive tracking into actionable insight.
+
+<!--
 Digital twins create a virtual replica of the human body's organ system of interest, using physiological and behavioral models to simulate complex interactions within the body’s systems.
+-->
 
 ![](/images/illustrations/digital-twin.svg)
 

@@ -2,9 +2,9 @@
 title: "NN"
 date: 2025-02-19T10:47:58+10:00
 image: "images/team/placeholder-image.jpg"
-jobtitle: "DTx Market Access"
+jobtitle: "Quatitative System Pharmacology"
 linkedinurl: "https://www.linkedin.com"
-weight: 7
+weight: 8
 ---
 
 [Comming Soon]

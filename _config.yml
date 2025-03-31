@@ -11,7 +11,7 @@ logo:
   desktop_width: "180px"
 
 home:
-  limit_solutions: 6
+  limit_solutions: 3
 
 collections:
   solutions:
