@@ -8,5 +8,4 @@ Design smarter trials with virtual patients.
 
 We use virtual patient models and in silico experimentation to optimize clinical trial design for DTx and Digital Biomarkers. Simulations help refine inclusion criteria, predict outcomes, and reduce development risks—accelerating time-to-market while aligning with regulatory expectations.
 
-![](/images/illustrations/rd-roadmapping.svg)
-![](/images/illustrations/clinical_pipeline_basic.svg)
+![](/images/illustrations/predictive-enrichment)
