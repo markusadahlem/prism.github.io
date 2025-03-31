@@ -4,7 +4,9 @@ date: 2025-03-27T09:42:22+0100
 weight: 8
 ---
 
-We develop digital twins that mirror a patient's physiological and behavioral states in real time, enabling personalized monitoring and proactive care. These dynamic models support remote patient management, adaptive interventions, and self-monitoring strategies—transforming passive tracking into actionable insight.
+Real-time insight from virtual patient models.
+
+Our digital twins replicate physiological and behavioral states in real time to power adaptive self-monitoring and remote patient management. These models transform passive data into actionable insight—supporting personalization, safety, and engagement.
 
 <!--
 Digital twins create a virtual replica of the human body's organ system of interest, using physiological and behavioral models to simulate complex interactions within the body’s systems.

@@ -4,8 +4,12 @@ date: 2025-03-26T15:14:39+10:00
 weight: 5
 ---
 
-We bridge the agility of startups with the structure of large corporations to support strategic partnerships in digital health. From early-stage co-development to pharma alliances, we help align incentives, clarify deliverables, and guide you through complex deal structures to maximize joint impact.
+Align partners, incentives, and strategy from day one.
+
+We help startups and corporates co-develop and execute effective partnerships. From deal design to joint development planning, we bring clarity and coordination to complex collaborations.
 
 > "Even for the most seasoned dealmakers, successful deals require coordination, planning and collaboration throughout the process."
+
+![](/images/illustrations/business-dev-cycle.svg)
 
 <!--more-->

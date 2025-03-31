@@ -4,7 +4,9 @@ date: 2019-01-28T15:15:26+10:00
 weight: 7
 ---
 
-We help position Digital Therapeutics and Digital Biomarkers at the intersection of drugs, devices, and software. From aligning with PDURS frameworks in the U.S. to leveraging DiGA and upcoming Class IIb pathways in Europe, we guide your regulatory strategy to support smart medications and connected solutions.
+Support for smart combinations and converging regulations.
+
+We guide digital health companies navigating the overlap of drugs, devices, and software. Whether aligning with PDURS in the U.S. or leveraging DiGA’s upcoming Class IIb device expansion, we help you plan integrated regulatory strategies.
 
 <!--
 With PDURS (prescription drug use-related software), the U.S. is taking the lead in Digital Therapeutics (DTx) adoption, setting benchmarks in regulatory oversight and innovation.

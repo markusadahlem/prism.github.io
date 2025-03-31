@@ -4,7 +4,11 @@ date: 2025-03-26T18:33:46+10:00
 weight: 1
 ---
 
-Our discovery process applies a structured, methodical approach—much like traditional drug discovery—but tailored to digital modalities. We identify Mechanisms of Action (MOA) for Digital Therapeutics (DTx), and define Contexts of Use (COU) for Digital Biomarkers or Contexts of Interest (COI) for Digital Clinical Measures.
+A structured path to identify what works and why.
+
+We apply a methodical approach—much like traditional drug discovery—tailored to digital modalities. This includes uncovering Mechanisms of Action (MOA) for Digital Therapeutics (DTx) and defining Contexts of Use (COU) or Contexts of Interest (COI) for Digital Biomarkers and Clinical Measures.
+
+![](/images/illustrations/risk-type.svg)
 
 <!--
 # Phases
@@ -15,7 +19,7 @@ Our discovery process applies a structured, methodical approach—much like trad
 
 # Risk profiles
 
-![](/images/illustrations/risk-type.svg)
+
 
 ## Target Identification
 
