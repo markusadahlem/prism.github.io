@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-Bernd is a non-linear dyanmics expert with a proven record of uncovering complex patterns, including those occurring in biology. After earning his PhD with a focus on controlling patterns, he ventured into consulting for in silico chip technology, seamlessly bridging biological insights with advanced computational methods. In addition, Bernd has led several software projects, consistently driving innovation in computational modeling and system design.
+Bernd is a non-linear dynamics expert with a proven record of uncovering complex patterns, including those occurring in biology. After earning his PhD with a focus on controlling patterns, he ventured into consulting for in silico chip technology, seamlessly bridging biological insights with advanced computational methods. In addition, Bernd has led several software projects, consistently driving innovation in computational modeling and system design.
