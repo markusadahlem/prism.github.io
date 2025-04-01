@@ -4,9 +4,9 @@ date: 2019-01-28T15:15:26+10:00
 weight: 1
 ---
 
-From concept to clinic—mapped with precision.
+From pharma standards to digital health strategy—customized for your pipeline.
 
-We help structure your development pipeline using a 3-phase gated process tailored to digital health. This roadmap guides discovery, feasibility, and validation, ensuring each stage strengthens both therapeutic potential and regulatory readiness. Our approach de-risks clinical development and aligns innovation with market and evidence goals from day one.
+We adapt proven gated development models from pharma to digital health. Our 3-phase process—discovery, feasibility, validation—aligns each step with your modality, evidence needs, and portfolio strategy. The result: focused execution, faster pivots, and a clear path from concept to clinic.
 
 ![](/images/illustrations/rd-roadmapping.svg)
 ![](/images/illustrations/clinical_pipeline_basic.svg)
