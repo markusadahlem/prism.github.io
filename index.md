@@ -8,11 +8,15 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
+<!--
 # <span class="insilico">_Digital&nbsp;_</span> Preclinical Research <span class="insilico">_in&nbsp;silico&thinsp;_</span> Modelling
-
 ## Digital Health Development Solutions
 
-Model-based AI to de-risk and accelerate DTx, digital biomarkers, and clinical measures.
+-->
+
+# Digital Health <span class="insilico">_Development&nbsp;_</span> Solutions
+
+Model-based AI to de-risk and accelerate <span class="insilico">_**DTx**&thinsp;_</span>, <span class="insilico">_**digital biomarkers**&thinsp;_</span>, and <span class="insilico">_**digital clinical&thinsp;ç measures**&thinsp;_</span>.
 Bringing preclinical rigor to digital health—fast, explainable, and designed for differentiation and IP protection.
 
 <!--Accelerate innovation in digital therapeutics and biomarkers with confidence.
