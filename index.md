@@ -14,9 +14,9 @@ show_call_box: true
 
 -->
 
-# Digital Health <span class="insilico">_Development&nbsp;_</span> Solutions
+# <span class="nonsilico">Digital Health</span> <span class="insilico">_Development&nbsp;_</span> <span class="nonsilico">Solutions</span>
 
-Model-based AI to de-risk and accelerate <span class="insilico">_**DTx**&thinsp;_</span>, <span class="insilico">_**digital biomarkers**&thinsp;_</span>, and <span class="insilico">_**digital clinical&thinsp;ç measures**&thinsp;_</span>.
+Model-based AI to de-risk and accelerate <span class="insilico">_**DTx**&thinsp;_</span>, <span class="insilico">_**digital biomarkers**&thinsp;_</span>, and <span class="insilico">_**digital clinical&thinsp; measures**&thinsp;_</span>.
 Bringing preclinical rigor to digital health—fast, explainable, and designed for differentiation and IP protection.
 
 <!--Accelerate innovation in digital therapeutics and biomarkers with confidence.

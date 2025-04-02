@@ -125,6 +125,10 @@ body {
 }
 
 .insilico {
-    color: $secondary; // Use your defined variable or a specific color
-    background-color: $primary; // Adjust or choose a highlight color
+    color: $secondary;
+    background-color: $primary;
+    display: inline-block; // Treats the span more like a box
+    line-height: 1.4; // Increases vertical spacing
+    padding: 0 2px; // Optional: horizontal padding for readability
+    vertical-align: baseline; // Keeps alignment with surrounding text
 }
