@@ -1,12 +1,12 @@
 ---
-title: "Digital Twins for Remote & Self-Monitoring"
+title: "Digital Twins"
 date: 2025-03-27T09:42:22+0100
 weight: 3
 ---
 
-Real-time insight from virtual patient models.
+Real-time intelligence from dynamic system models for remote & self-monitoring.
 
-Our digital twins replicate physiological and behavioral states in real time to power adaptive self-monitoring and remote patient management. These models transform passive data into actionable insight—supporting personalization, safety, and engagement.
+Our digital twins replicate physiological and behavioral processes to support adaptive self-monitoring and remote patient management. Unlike traditional predictive analytics that map data to fixed outcomes, digital twins model the dynamic evolution of systems—enabling continuous, bidirectional feedback and more responsive, personalized care.
 
 <!--
 Digital twins create a virtual replica of the human body's organ system of interest, using physiological and behavioral models to simulate complex interactions within the body’s systems.
