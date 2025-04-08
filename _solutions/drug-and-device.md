@@ -1,7 +1,7 @@
 ---
 title: "Drug–Device–Software Integration"
 date: 2019-01-28T15:15:26+10:00
-weight: 7
+weight: 1
 ---
 
 Support for smart combinations and converging regulations.

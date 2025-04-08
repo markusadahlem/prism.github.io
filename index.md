@@ -2,7 +2,7 @@
 title: Digital PRISM
 layout: home
 description: Digital health development solutions
-intro_image: "images/slider/bridging-asperation-expectation-gap.svg"
+intro_image: "images/illustrations/bridging-asperation-expectation-gap.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
@@ -14,7 +14,7 @@ show_call_box: true
 
 -->
 
-# <span class="nonsilico">Digital Health</span> <span class="insilico">_Development&nbsp;_</span> <span class="nonsilico">Solutions</span>
+# <span class="nonsilico">Drug-Device</span> <span class="insilico">_Development&nbsp;_</span> <span class="nonsilico">Solutions</span>
 
 Model-based AI to de-risk and accelerate the development of<br>
 •&nbsp;&nbsp;<span class="insilico">_**DTx**&thinsp;_</span>,<br>

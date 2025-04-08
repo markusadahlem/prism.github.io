@@ -1,7 +1,7 @@
 ---
 title: "Digital Twins"
 date: 2025-03-27T09:42:22+0100
-weight: 3
+weight: 2
 ---
 
 Real-time intelligence from dynamic system models for remote & self-monitoring.

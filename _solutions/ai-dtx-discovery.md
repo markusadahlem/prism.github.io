@@ -1,7 +1,7 @@
 ---
 title: "AI-driven DTx Discovery"
 date: 2019-01-28T15:15:26+10:00
-weight: 1
+weight: 3
 ---
 
 From MoA to mechanism-based design—AI-accelerated DTx discovery.
