@@ -19,7 +19,8 @@ show_call_box: true
 Model-based AI to de-risk and accelerate the development of<br>
 •&nbsp;&nbsp;<span class="insilico">_**DTx**&thinsp;_</span>,<br>
 •&nbsp;&nbsp;<span class="insilico">_**digital biomarkers**&thinsp;_</span>, and<br>
-•&nbsp;&nbsp;<span class="insilico">_**digital clinical measures**&thinsp;_</span>.
+•&nbsp;&nbsp;<span class="insilico">_**digital clinical measures**&thinsp;_</span>  
+to be integrated with classical medications making drugs smart.
 
 Bringing preclinical rigor to digital health—fast, explainable, and designed for differentiation and IP protection.
 
