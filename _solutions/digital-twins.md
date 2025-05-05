@@ -4,52 +4,33 @@ date: 2025-03-27T09:42:22+0100
 weight: 2
 ---
 
-Real-time intelligence from dynamic system models for remote & self-monitoring.
+Enhancing Drug Lifecycle Management and Post-Market Optimization.
 
-Our digital twins replicate physiological and behavioral processes to support adaptive self-monitoring and remote patient management. Unlike traditional predictive analytics that map data to fixed outcomes, digital twins model the dynamic evolution of systems—enabling continuous, bidirectional feedback and more responsive, personalized care.
+We develop and support digital twins that model the dynamic evolution of physiological and behavioral systems—enabling adaptive intervention, remote patient monitoring, and trial optimization. 
 
-<!--
-Digital twins create a virtual replica of the human body's organ system of interest, using physiological and behavioral models to simulate complex interactions within the body’s systems.
--->
+
+Digital twins replicate physiological and behavioral processes to support adaptive self-monitoring and remote patient management. Unlike traditional predictive analytics that map data to fixed outcomes, digital twins model the dynamic evolution of systems—enabling continuous, bidirectional feedback and more responsive, personalized care.
+
+
+
 
 ![](/images/illustrations/digital-twin.svg)
 
-<!--
-The use of digital twins is threefold:
 
-- Synthetic Data Generation
-  - Create virtual populations to inform trial design
-- Digital Biomarkers; Context of Use (COU)
-  - Detect change in the degree or extent of the condition
-  - Prognostic: e.g. Patient enrichment
-  - Detect early signs of efficacy
-  - Susceptibility: Indicyate risk of event for early interception
-- Digital Therapeutics (DTx) Development
-  - Model-Informed Mechanisms of Action (MOA)
-  - Integrate as closed-loop feedback systems
+### Why Digital Twins?
 
-Provide insights into treatment effects within specific physiological pathways
+In medicine, digital twins serve three core purposes: maintaining health, restoring it, and inventing new ways to do both. Their strength lies in linking biological insight with intervention design, and simulation with real-world validation — through what we call **twin control**.
 
-## The brain controls all 10 organ system
+![](/images/illustrations/digital-twin-design-diamond.svg)
 
-The brain coordinates all ten major organ systems, ensuring balance and function across the entire body, highlighting that Digital Therapeutics (DTx) extends far beyond mental health to support comprehensive bodily health.
+We adapt the **Design Diamond** from industrial manufacturing: a mirrored V-model structured for drug–device development, connected by a digital thread and governed by software lifecycle management. This structure doesn’t just align with the pharmaceutical pipeline — it upgrades it.
 
-![](/images/illustrations/cns_organ_systems.svg)
 
-|                                      |                            |
-| ------------------------------------ | -------------------------- |
-| 1. Skeletal muscle system            | 6. Endocrine system        |
-| 2. Respiratory system                | 7. Reproductive system     |
-| 3. Blood and circulatory system      | 8. Gastrointestinal system |
-| 4. Water and salt homeostasis system | 9. Metabolism              |
-| 5. Urinary system                    | 10. Thermoregulation       |
+> From small molecules and biologics to generics and DTx, digital twins enable software lifecycle logic in medicine.
 
-## Kalman filter
 
-The Kalman filter enhances these models by continuously refining predictions and adapting to new data, making digital twins precise and responsive.
+### White Paper
 
-![](/images/illustrations/cns_organ_systems_kalman_overlay.svg)
+[Get in touch](/contact/) and get our White paper on Digital Twins.
 
-![](/images/illustrations/kalman_method_visual.svg)
-
--->
+![](/images/illustrations/digital-twin-white-paper-cover.svg)
