@@ -4,4 +4,5 @@ layout: contact
 description: Contact
 ---
 
-Comming soon
+
+**Get in touch!**
